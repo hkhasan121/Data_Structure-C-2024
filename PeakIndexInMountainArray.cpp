@@ -18,7 +18,7 @@ int peakIndexInMountainArray(int arr[],int n)
             e = mid;
         }
     }
-    //when s=e
+    //when s=e,,thats mean this is the peakIndex
     return s;
 }
 
